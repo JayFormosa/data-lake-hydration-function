@@ -19,6 +19,4 @@ https://docs.aws.amazon.com/step-functions/latest/dg/tutorial-create-iterate-pat
 
 https://docs.aws.amazon.com/step-functions/latest/dg/input-output-example.html
 
-
-
-
+https://docs.aws.amazon.com/athena/latest/ug/glue-best-practices.html#schema-csv-headers
